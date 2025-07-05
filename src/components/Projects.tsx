@@ -12,7 +12,7 @@ const Projects = () => {
       techStack: ["React", "Tailwind CSS", "Three.js", "GSAP"],
       github: "https://github.com/Inzhamed/iphone15pro-website",
       liveDemo: "https://inzhamed.github.io/iphone15pro-website/",
-      image: "/iphone15clone.png"
+      image: "iphone15clone.png"
     },
     {
       title: "Railway Inspection Dashboard",
@@ -20,7 +20,7 @@ const Projects = () => {
       techStack: ["React", "TypeScript", "Node.js", "MongoDB", "leaflet.js"],
       github: "https://github.com/Inzhamed/pfc",
       liveDemo: "https://inzhamed.github.io/pfc/#/dashboard", // Replace with actual URL
-      image: "/CDTA_DEV.png"
+      image: "CDTA_DEV.png"
     },
     {
       title: "Medical Office Management System",
@@ -36,7 +36,7 @@ const Projects = () => {
       techStack: ["Express.js", "WebSocket", "SSH"],
       github: "https://github.com/Inzhamed/server-monitor",
       liveDemo: null, // Replace with actual URL
-      image: "/server_monitor.png"
+      image: "server_monitor.png"
     },
     {
       title: "AI-Based Railway Defect Detection",
@@ -44,7 +44,7 @@ const Projects = () => {
       techStack: ["Python", "TensorFlow", "OpenCV", "Machine Learning"],
       github: "https://github.com/inezarenehamed/railway-defect-detection",
       liveDemo: null, 
-      image: "/CDTA_AI.png"
+      image: "CDTA_AI.png"
     }
   ];
 
